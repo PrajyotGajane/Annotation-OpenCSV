@@ -1,15 +1,12 @@
 package com.bridgelabz.com.OpenCSV;
-
 public class MyUser {
       private String name;
       private String email;
       private String phoneNo;
       private String country;
-
       public MyUser() {
 
       }
-
       public MyUser(String name, String email, String phoneNo, String country) {
             this.name = name;
             this.email = email;
@@ -19,6 +16,4 @@ public class MyUser {
       public String toString(){
             return this.name+" "+this.email+" "+this.phoneNo+" "+this.country;
       }
-
-      // Getters and Setters (Omitted for brevity)
 }
