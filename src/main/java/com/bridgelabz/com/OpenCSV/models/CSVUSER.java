@@ -1,4 +1,4 @@
-package com.bridgelabz.com.OpenCSV;
+package com.bridgelabz.com.OpenCSV.models;
 import com.opencsv.bean.CsvBindByName;
 public class CSVUSER {
             @CsvBindByName

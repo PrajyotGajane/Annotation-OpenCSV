@@ -1,4 +1,4 @@
-package com.bridgelabz.com.OpenCSV;
+package com.bridgelabz.com.OpenCSV.models;
 public class MyUser {
       private String name;
       private String email;
